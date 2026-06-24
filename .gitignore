@@ -30,6 +30,7 @@ __pycache__/
 
 # ── Claude Code instructions (local only) ────────────────────────────────────
 CLAUDE.md
+.claude/
 
 # ── Editors ──────────────────────────────────────────────────────────────────
 .vscode/
