@@ -28,6 +28,9 @@ __pycache__/
 .AppleDouble
 .LSOverride
 
+# ── Claude Code instructions (local only) ────────────────────────────────────
+CLAUDE.md
+
 # ── Editors ──────────────────────────────────────────────────────────────────
 .vscode/
 .idea/
